@@ -26,4 +26,6 @@ Sherman's change to the edit.
 =======
 Here is my changes, done on my laptop.
 -Christian
+Here is my objection to Christian's changes, done from my Commodore 64.
+-Zack
 >>>>>>> Christian_readme_content
