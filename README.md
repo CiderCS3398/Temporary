@@ -5,6 +5,6 @@ This was weird to find.
 
 -Zack
 
-It's incredibly confusing at this moment
+Checking in here.
 
 -Forrest
