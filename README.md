@@ -5,4 +5,5 @@ This was weird to find.
 
 -Zack
 
-Here is Christian's contribution to the project.
+Here is my changes, done on my laptop.
+-Christian
