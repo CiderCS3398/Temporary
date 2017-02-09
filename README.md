@@ -9,6 +9,7 @@ This was weird to find. This was weird to find again.
 
 -Zack
 
+<<<<<<< HEAD
 
 Here is my two cents.
 
@@ -22,3 +23,7 @@ Sherman's change to the edit.
 
 -Sherman
 
+=======
+Here is my changes, done on my laptop.
+-Christian
+>>>>>>> Christian_readme_content
