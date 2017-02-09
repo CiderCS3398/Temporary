@@ -5,6 +5,7 @@ This was weird to find.
 We shall rise to the top & win this class! Let's overthrow the Captain!
 -Eddie
 
+This was weird to find. This was weird to find again.
 
 -Zack
 
