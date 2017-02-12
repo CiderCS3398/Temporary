@@ -9,8 +9,6 @@ This was weird to find. This was weird to find again.
 
 -Zack
 
-<<<<<<< HEAD
-
 Here is my two cents.
 
 -Nick
@@ -23,9 +21,14 @@ Sherman's change to the edit.
 
 -Sherman
 
-=======
 Here is my changes, done on my laptop.
+
 -Christian
+
 Here is my objection to Christian's changes, done from my Commodore 64.
+
 -Zack
->>>>>>> Christian_readme_content
+
+Sorry about that, boys. Hopefully this looks better.
+
+-Christian
